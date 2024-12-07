@@ -1,27 +1,19 @@
-# 💞 AI 코딩 활용 영어수업 과제 만들기 
+# 🌟 AI 코딩 활용 영어수업 과제 만들기 🌟
 ## Professor Junkyu Lee (HUFS)
-### 2024년 6월 20일 17:00-18:00
-+ [PPT](https://github.com/junkyuhufs/HUFSworkshop/raw/main/data/AI%EC%BD%94%EB%94%A9%EC%98%81%EC%96%B4%EA%B3%BC%EC%A0%9C_%EC%9D%B4%EC%A4%80%EA%B7%9C_20June2024.pdf)
-+ [QR code](https://github.com/junkyuhufs/HUFSworkshop/raw/main/data/myqrcode.png)
-    
-### Sample
-+ [App Link2](https://ejun123-ReadAloud.hf.space)
-+ [QR code generator](https://mrkim21.github.io/appfolder/qrcode.html)
 
-## special thanks to Dr. Miran Kim (GNU) and her students
-
-# ⚔️ Sample lessons  
-+ Overview of the project: This project aims to teach middle school students using the story "The Guardian's Secret," with the primary method of making learning interactive through a code-based application developed using Gradio and Python. This approach focuses on enhancing listening and writing skills.
+# 🍇 Sample lessons  
++ Overview of the project: This project aims to teach middle school students using the story "The Fox and the Grapes," with the primary method of making learning interactive through a code-based application developed using Gradio and Python. This approach focuses on enhancing listening and writing skills.
 
 ## Useful Links
-|💠[Emoji](https://gist.github.com/rxaviers/7360908) | 💠[ProjectGuide](https://github.com/MK316/Spring2024/blob/main/DLTESOL/project/README.md) | 💠[Reading material](https://raw.githubusercontent.com/MK316/Spring2024/main/DLTESOL/project/story02.txt) | 💠[CodePage](https://github.com/ShieldEdu/G4-finalproject/blob/main/FPG04.ipynb) | 💠 [APP#1-Wordcloud](https://huggingface.co/spaces/teatwots/wordcloud) | 💠 [APP#2-TTS-listening](https://huggingface.co/spaces/englissi/gstesolfinallistening) | 💠 [APP#3-Cloze test](https://huggingface.co/spaces/englissi/gstesolclozetest) | 💠 [APP#4-Sequencing app](https://huggingface.co/spaces/teatwots/sequencing) | 💠 [APP#5-Grammar Checker](https://huggingface.co/spaces/teatwots/grammarchecking)  | 
+|🔸[Emoji](https://gist.github.com/rxaviers/7360908) | 🔸[ProjectGuide](https://github.com/MK316/Spring2024/blob/main/DLTESOL/project/README.md) | 🔸[Reading material](https://read.gov/aesop/005.html) |🔸 [APP#1-Wordcloud]( ) | 🔸 [APP#2-TTS-listening]( ) | 🔸 [APP#3-Cloze test]( ) | 🔸 [APP#4-Sequencing app]( ) | 🔸 [APP#5-Grammar Checker]( )  | 
 
 ## Lesson Plan
 
-![Final Banner](https://github.com/ShieldEdu/G4-finalproject/blob/main/Images/The_final_banner3.jpg?raw=true)
+<img width="619" alt="image" src="https://github.com/user-attachments/assets/2d7dbd14-efdb-4f48-80ad-a6fe725d95d0">
+
 
 ## Overview
-This lesson plan is designed for middle school students and focuses on enhancing listening and writing skills through interactive activities using Gradio and Python coding. The lesson is based on the story "The Guardian's Secret."
+This lesson plan is designed for middle school students and focuses on enhancing listening and writing skills through interactive activities using Gradio and Python coding. The lesson is based on the story "The Fox and the Grapes."
 
 ## Objectives
 - 📚 Improve vocabulary knowledge
@@ -35,7 +27,7 @@ This lesson plan is designed for middle school students and focuses on enhancing
 
 **Python:** Programming language for implementing Gradio apps.
 
-**Hugging Face:** A platform providing a wide range of natural language processing (NLP) tools and models.
+**Canva:** An online design tool for creating graphics, presentations, and more using templates and easy editing features.
 
 ## Teaching Procedure (55 minutes in total)
 
@@ -87,7 +79,7 @@ This lesson plan is designed for middle school students and focuses on enhancing
 **🎯Objective:** Foster creative writing and check for grammatical accuracy.
 
 **📱Activity:**
-- Provide the following writing prompt: "In the story, Alex and his friends discovered an ancient treasure in Whispering Hollow and decided to donate the artifacts to the local museum. In the past, did you have a similar experience where you found something valuable or interesting? Tell the story. Describe what you found, what you did with it, and how you felt about your decision. Remember to use past tense in your writing. Provide reasons for your opinions and try to relate them to the values and lessons from the story."
+- Provide the following writing prompt: "In the story, the Fox tries repeatedly to reach a tempting bunch of grapes, only to give up and convince himself that the grapes were not worth the effort. Have you ever had an experience where you worked hard to achieve something but decided to give up in the end? Share your story. Describe what you were trying to accomplish, why you stopped, and how you felt afterward. Reflect on your decision and relate it to the lesson in the story. Remember to use past tense in your writing and provide reasons for your feelings and actions."
 - Use the Gradio Writing Checker App to allow students to check their writing for errors.
 
 **👨‍🏫Teacher's Role:**
@@ -107,18 +99,13 @@ This lesson plan is designed for middle school students and focuses on enhancing
 
 ## Lesson Materials
 
-### Story Title: The Guardian's Secret 
-+ [text link](https://raw.githubusercontent.com/MK316/Spring2024/main/DLTESOL/project/story02.txt)
-+ [image link](https://github.com/MK316/Spring2024/blob/main/DLTESOL/project/Story02.png)
-
-#### :blush::blue_book:We made a picturing book to help get the story quickly! Click the link below!:)📙
-+ [picture book link](https://www.childbook.ai/book/s/the-guardians-secret-spgd)
+### Story Title: The Fox and the Grapes
++ [picture book link](https://read.gov/aesop/005.html)
 
 **<Synopsis>**
-In Echo Ridge, a mountain village enriched with legends of the "Guardian of the Glen" eagle, adventurous Alex discovers an ancient map in a library book that hints at a hidden treasure in Whispering Hollow cave. Along with friends Mia and Sam, Alex embarks on a challenging expedition through dense forests and rugged terrain. Upon reaching the cave, they find not gold, but historical artifacts including a statuette of the Guardian eagle, which they donate to the local museum. This discovery not only cements their status as local heroes but revitalizes the village's interest in its own lore and history, continuing the legend of the Guardian as a symbol of adventure and cultural heritage.
+A hungry Fox spots a luscious bunch of ripe grapes hanging high on a vine and eagerly attempts to reach them. Despite his best efforts—jumping repeatedly and even taking a running leap—he fails to grab the grapes. Exhausted and annoyed, the Fox walks away, consoling himself by declaring the grapes sour and not worth the effort. His reaction reflects the human tendency to downplay the value of unattainable goals as a way to cope with disappointment. This classic fable serves as a reminder to acknowledge our limitations while striving for self-awareness and humility.
 
-
-## Huggingface
+## Gradio App
 
 <div align=center>
    
@@ -128,8 +115,6 @@ In Echo Ridge, a mountain village enriched with legends of the "Guardian of the 
 </div>
 
 ### 기타
-+ [App Link](https://huggingface.co/spaces/ejun123/ReadAloud)
-+ [App Link2](https://ejun123-ReadAloud.hf.space)
 + [QR code](https://mrkim21.github.io/appfolder/qrcode.html)
 + [Emoji](https://gist.github.com/rxaviers/7360908)
 
@@ -137,4 +122,5 @@ In Echo Ridge, a mountain village enriched with legends of the "Guardian of the 
 |--|--|--|
 |1|2|3|
 
-![Image](https://github.com/junkyuhufs/HUFSworkshop/raw/main/data/tiger.jpg)
+<img width="344" alt="image" src="https://github.com/user-attachments/assets/52419dcb-572f-40c1-ba74-724881988491">
+
