@@ -109,11 +109,10 @@ A hungry Fox spots a luscious bunch of ripe grapes hanging high on a vine and ea
 
 <div align=center>
    
-| Gradio Wordcloud App | Gradio TTS Listening App | Gradio Cloze Question App | Gradio Image Sequencing App | Gradio Writing Checker App |
-|:--:|:--:|:--:|:--:|:--:|
-|<a href="https://huggingface.co/spaces/teatwots/wordcloud"> <img src="https://github.com/ShieldEdu/G4-finalproject/blob/main/Images/1.png" alt="wordcloud"> </a>|<a href="https://huggingface.co/spaces/englissi/gstesolfinallistening"> <img src="https://github.com/ShieldEdu/G4-finalproject/blob/main/Images/2.png" alt="tts_app"> </a>|<a href="https://huggingface.co/spaces/englissi/gstesolclozetest"> <img src="https://github.com/ShieldEdu/G4-finalproject/blob/main/Images/3-1.png" alt="cloze_question_app"> </a>|<a href="https://huggingface.co/spaces/teatwots/sequencing"> <img src="https://github.com/ShieldEdu/G4-finalproject/blob/main/Images/4-1.png" alt="image_sequencing_app"> </a>|<a href="https://huggingface.co/spaces/teatwots/grammarchecking"> <![purple_qr_with_fox](https://github.com/user-attachments/assets/7d209e9b-616a-4f69-94d7-01d245039746)
-> </a>|
-</div>
+| Gradio Wordcloud App | Gradio Cloze Question App | Gradio Image Sequencing App | Gradio Writing Checker App |
+|:--:|:--:|:--:|:--:|
+|1|![image (1)](https://github.com/user-attachments/assets/9c3b8c00-1943-417f-a185-5ea3f5f4d862)|![image (2)](https://github.com/user-attachments/assets/49a9e3e8-eacf-4481-af9b-70ae44cd8980)|![image](https://github.com/user-attachments/assets/7be94cbe-bfe3-457e-bcf7-dec0d44e5e0e)|
+
 
 ### 기타
 + [QR code](https://mrkim21.github.io/appfolder/qrcode.html)
