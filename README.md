@@ -5,7 +5,7 @@
 + Overview of the project: This project aims to teach middle school students using the story "The Fox and the Grapes," with the primary method of making learning interactive through a code-based application developed using Gradio and Python. This approach focuses on enhancing listening and writing skills.
 
 ## Useful Links
-|🔸[Emoji](https://gist.github.com/rxaviers/7360908) | 🔸[ProjectGuide](https://github.com/MK316/Spring2024/blob/main/DLTESOL/project/README.md) | 🔸[Reading material](https://read.gov/aesop/005.html) |🔸 [APP#1-Wordcloud]( ) | 🔸 [APP#2-Cloze test](https://159ae75340710c1c1c.gradio.live/ ) | 🔸 [APP#3-Sequencing app]( https://huggingface.co/spaces/yurabaik/sequence_activity) | 🔸 [APP#4-Grammar Checker](https://huggingface.co/spaces/yurabaik/1)  | 
+|🔸[Emoji](https://gist.github.com/rxaviers/7360908) | 🔸[ProjectGuide](https://github.com/MK316/Spring2024/blob/main/DLTESOL/project/README.md) | 🔸[Reading material](https://read.gov/aesop/005.html) |🔸 [APP#1-Wordcloud]( ) | 🔸 [APP#2-Cloze test](https://huggingface.co/spaces/yurabaik/cloze_test) | 🔸 [APP#3-Sequencing app]( https://huggingface.co/spaces/yurabaik/sequence_activity) | 🔸 [APP#4-Grammar Checker](https://huggingface.co/spaces/yurabaik/1)  | 
 
 ## Lesson Plan
 
