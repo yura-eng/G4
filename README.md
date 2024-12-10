@@ -54,11 +54,10 @@ This lesson plan is designed for middle school students and focuses on enhancing
 **👨‍🏫Teacher's Role:**
 - Play the audio file and monitor students' progress.
 - Distribute the cloze exercise and guide students through it.
-- Assist students in using the Verb Base Form App.
 
 **👦👧Students' Role:**
 - Listen to the audio and complete the cloze exercise by filling in the blanks with past tense verbs.
-- Use the Verb Base Form App to check their answers and learn the base forms of the verbs.
+- Check the answers and learn the base forms of the verbs.
 
 #### (3) After-Listening Activity: Sequence the Story (10 minutes)
 
