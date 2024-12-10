@@ -1,7 +1,7 @@
 # 🌟 AI 코딩 활용 영어수업 과제 만들기 🌟
 ## Professor Junkyu Lee (HUFS)
 
-# 🍇 Sample lessons  
+# 🍇 Sample lessons 🦊 
 + Overview of the project: This project aims to teach middle school students using the story "The Fox and the Grapes," with the primary method of making learning interactive through a code-based application developed using Gradio and Python. This approach focuses on enhancing listening and writing skills.
 
 ## Useful Links
@@ -37,7 +37,7 @@ This lesson plan is designed for middle school students and focuses on enhancing
 
 **🎯Objective:** Introduce and discuss new vocabulary from the story.
 
-**📱Activity:** Use the Gradio Wordcloud App to create a word cloud highlighting frequent words from the text.
+**✏️Activity:** Use the Gradio Wordcloud App to create a word cloud highlighting frequent words from the text.
 
 **👨‍🏫Teacher's Role:** Display the word cloud on a projector and discuss the highlighted words with students. Explain meanings, provide examples, and answer any questions.
 
@@ -47,7 +47,7 @@ This lesson plan is designed for middle school students and focuses on enhancing
 
 **🎯Objective:** Enhance listening comprehension and focus on past tense verbs.
 
-**📱Activity:**
+**✏️Activity:**
 - Use the Gradio TTS App to convert the text to an audio file. Play the audio for students.
 - Provide a cloze exercise using the Gradio Cloze Question App, focusing on past tense verbs. Students fill in the blanks while listening.
 
@@ -63,7 +63,7 @@ This lesson plan is designed for middle school students and focuses on enhancing
 
 **🎯Objective:** Develop sequencing skills by arranging images in the correct order.
 
-**📱Activity:** Use the Gradio Image Sequencing App to provide images related to the story. Students arrange the images in the correct sequence based on what they heard.
+**✏️Activity:** Use the Gradio Image Sequencing App to provide images related to the story. Students arrange the images in the correct sequence based on what they heard.
 
 **👨‍🏫Teacher's Role:**
 - Display the images using the Image Sequencing App.
@@ -77,7 +77,7 @@ This lesson plan is designed for middle school students and focuses on enhancing
 
 **🎯Objective:** Foster creative writing and check for grammatical accuracy.
 
-**📱Activity:**
+**✏️Activity:**
 - Provide the following writing prompt: "In the story, the Fox tries repeatedly to reach a tempting bunch of grapes, only to give up and convince himself that the grapes were not worth the effort. Have you ever had an experience where you worked hard to achieve something but decided to give up in the end? Share your story. Describe what you were trying to accomplish, why you stopped, and how you felt afterward. Reflect on your decision and relate it to the lesson in the story. Remember to use past tense in your writing and provide reasons for your feelings and actions."
 - Use the Gradio Writing Checker App to allow students to check their writing for errors.
 
