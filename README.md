@@ -107,7 +107,7 @@ This lesson plan is designed for middle school students and focuses on enhancing
 - 🛠️ Be prepared to assist students with any technical issues that may arise while using the apps.
 - 💬 Encourage students to actively participate and ask questions throughout the lesson.
 - ⚙️ Adapt the activities as needed based on the students' proficiency levels and engagement.
-- 
+  
 
 ## Lesson Materials
 
