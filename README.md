@@ -54,7 +54,7 @@ This lesson plan is designed for middle school students and focuses on enhancing
 - Discuss potential story titles in pairs or small groups before submitting their guesses.
 - Reflect on their guesses and participate in the discussion about the correct title and the story's main themes.
 
-#### (2) While-Listening Activity (15 minutes)
+#### (2) While-Listening Activity: 💭 Cloze test (15 minutes)
 
 **🎯Objective:** Enhance listening comprehension and focus on past tense verbs.
 
@@ -70,7 +70,7 @@ This lesson plan is designed for middle school students and focuses on enhancing
 - Listen to the audio and complete the cloze exercise by filling in the blanks with past tense verbs.
 - Check the answers and learn the base forms of the verbs.
 
-#### (3) After-Listening Activity: Sequence the Story (10 minutes)
+#### (3) After-Listening Activity: 📰 Sequence the Story (10 minutes)
 
 **🎯Objective:** Develop sequencing skills by arranging images in the correct order.
 
