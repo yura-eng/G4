@@ -96,6 +96,27 @@ This lesson plan is designed for middle school students and focuses on enhancing
 - 💬 Encourage students to actively participate and ask questions throughout the lesson.
 - ⚙️ Adapt the activities as needed based on the students' proficiency levels and engagement.
 
+### 3. 🎬 WordCloud - 동화제목 맞추기 (10 minutes)
+
+**🎯Objective:**
+- Enhance vocabulary recognition and prediction skills by interpreting a word cloud to guess the title of a story.
+
+**✏️Activity:**
+- Display a word cloud generated from the story text ("The Fox and the Grapes") using the Gradio Wordcloud App.
+- Students observe the word cloud and identify frequently used words.
+- Students submit their guesses for the story title through the app.
+- Discuss the correct title and its connection to the highlighted words in the word cloud.
+
+**👨‍🏫Teacher's Role:**
+- Explain how word clouds work and their purpose in highlighting key words.
+- Facilitate discussion by encouraging students to think critically about the words in the cloud.
+- Provide hints if needed and reveal the correct title through the app.
+
+**👦👧Students' Role:**
+- Analyze the word cloud and identify key words.
+- Discuss potential story titles in pairs or small groups before submitting their guesses.
+- Reflect on their guesses and participate in the discussion about the correct title and the story's main themes.
+
 ## Lesson Materials
 
 ### Story Title: 🍇The Fox and the Grape🍇
