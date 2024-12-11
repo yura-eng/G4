@@ -123,7 +123,7 @@ A hungry Fox spots a luscious bunch of ripe grapes hanging high on a vine and ea
    
 | Gradio Wordcloud App | Gradio Cloze Question App | Gradio Image Sequencing App | Gradio Writing Checker App |
 |:--:|:--:|:--:|:--:|
-|![image (3)](https://github.com/user-attachments/assets/25da72ec-5ff5-4a9b-9bd6-eac701518a42)|![image (1)](https://github.com/user-attachments/assets/9c3b8c00-1943-417f-a185-5ea3f5f4d862)|![image (2)](https://github.com/user-attachments/assets/49a9e3e8-eacf-4481-af9b-70ae44cd8980)|![image](https://github.com/user-attachments/assets/7be94cbe-bfe3-457e-bcf7-dec0d44e5e0e)|
+|![image (4)](https://github.com/user-attachments/assets/6f93c416-3c28-4469-95b0-c22962b0ff70)|![image (1)](https://github.com/user-attachments/assets/9c3b8c00-1943-417f-a185-5ea3f5f4d862)|![image (2)](https://github.com/user-attachments/assets/49a9e3e8-eacf-4481-af9b-70ae44cd8980)|![image](https://github.com/user-attachments/assets/7be94cbe-bfe3-457e-bcf7-dec0d44e5e0e)|
 
 
 <img width="344" alt="image" src="https://github.com/user-attachments/assets/52419dcb-572f-40c1-ba74-724881988491">
