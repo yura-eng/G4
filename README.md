@@ -33,15 +33,26 @@ This lesson plan is designed for middle school students and focuses on enhancing
 
 ### 1. 🎧 Listening Activity (35 minutes)
 
-#### (1) Pre-Listening Activity: Learning New Words (10 minutes)
+#### (1) Pre-Listening Activity: 🎬 WordCloud - 동화제목 맞추기 (10 minutes)
 
-**🎯Objective:** Introduce and discuss new vocabulary from the story.
+**🎯Objective:**
+- Enhance vocabulary recognition and prediction skills by interpreting a word cloud to guess the title of a story.
 
-**✏️Activity:** Use the Gradio Wordcloud App to create a word cloud highlighting frequent words from the text.
+**✏️Activity:**
+- Display a word cloud generated from the story text ("The Fox and the Grapes") using the Gradio Wordcloud App.
+- Students observe the word cloud and identify frequently used words.
+- Students submit their guesses for the story title through the app.
+- Discuss the correct title and its connection to the highlighted words in the word cloud.
 
-**👨‍🏫Teacher's Role:** Display the word cloud on a projector and discuss the highlighted words with students. Explain meanings, provide examples, and answer any questions.
+**👨‍🏫Teacher's Role:**
+- Explain how word clouds work and their purpose in highlighting key words.
+- Facilitate discussion by encouraging students to think critically about the words in the cloud.
+- Provide hints if needed and reveal the correct title through the app.
 
-**👦👧Students' Role:** Participate in the discussion, take notes on new vocabulary, and ask questions about any unfamiliar words.
+**👦👧Students' Role:**
+- Analyze the word cloud and identify key words.
+- Discuss potential story titles in pairs or small groups before submitting their guesses.
+- Reflect on their guesses and participate in the discussion about the correct title and the story's main themes.
 
 #### (2) While-Listening Activity (15 minutes)
 
@@ -88,6 +99,7 @@ This lesson plan is designed for middle school students and focuses on enhancing
 **👦👧Students' Role:**
 - Write a response to the prompt.
 - Use the Writing Checker App to check their writing and make corrections based on the feedback.
+- Ex) I once tried to learn how to play the guitar. I practiced for a few weeks, but it was harder than I expected. My fingers hurt, and I struggled to remember the chords. Eventually, I decided to stop because I felt frustrated and thought I wasn’t improving fast enough. At first, I felt disappointed in myself, but later I realized I wasn’t truly passionate about playing the guitar. Like the Fox in the story, I convinced myself it wasn’t worth it, but I also learned the importance of focusing on goals I truly care about.
 
 ### Notes for Teachers
 
@@ -95,27 +107,7 @@ This lesson plan is designed for middle school students and focuses on enhancing
 - 🛠️ Be prepared to assist students with any technical issues that may arise while using the apps.
 - 💬 Encourage students to actively participate and ask questions throughout the lesson.
 - ⚙️ Adapt the activities as needed based on the students' proficiency levels and engagement.
-
-### 3. 🎬 WordCloud - 동화제목 맞추기 (10 minutes)
-
-**🎯Objective:**
-- Enhance vocabulary recognition and prediction skills by interpreting a word cloud to guess the title of a story.
-
-**✏️Activity:**
-- Display a word cloud generated from the story text ("The Fox and the Grapes") using the Gradio Wordcloud App.
-- Students observe the word cloud and identify frequently used words.
-- Students submit their guesses for the story title through the app.
-- Discuss the correct title and its connection to the highlighted words in the word cloud.
-
-**👨‍🏫Teacher's Role:**
-- Explain how word clouds work and their purpose in highlighting key words.
-- Facilitate discussion by encouraging students to think critically about the words in the cloud.
-- Provide hints if needed and reveal the correct title through the app.
-
-**👦👧Students' Role:**
-- Analyze the word cloud and identify key words.
-- Discuss potential story titles in pairs or small groups before submitting their guesses.
-- Reflect on their guesses and participate in the discussion about the correct title and the story's main themes.
+- 
 
 ## Lesson Materials
 
