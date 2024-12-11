@@ -1,0 +1,41 @@
+import gradio as gr
+from wordcloud import WordCloud
+import matplotlib.pyplot as plt
+
+# 동화 내용
+aesop_text = """A fox one day spied a beautiful bunch of ripe grapes hanging from a vine..."""  # Replace with full text
+
+# 워드클라우드 생성
+def generate_wordcloud(text):
+    wordcloud = WordCloud(width=800, height=400, background_color="white").generate(text)
+    plt.figure(figsize=(10, 5))
+    plt.imshow(wordcloud, interpolation="bilinear")
+    plt.axis("off")
+    plt.tight_layout()
+    plt.savefig("wordcloud_image.png")
+    return "wordcloud_image.png"
+
+# 정답 확인
+def check_title(user_input):
+    correct_title = "The Fox and the Grapes"
+    if user_input.lower() == correct_title.lower():
+        return "Correct! The title is indeed 'The Fox and the Grapes.'"
+    else:
+        return f"Incorrect! The correct title is '{correct_title}'."
+
+# Gradio 인터페이스
+def app_interface():
+    wordcloud_image = generate_wordcloud(aesop_text)
+    with gr.Blocks() as demo:
+        gr.Markdown("# Wordcloud Title Guessing App")
+        with gr.Row():
+            gr.Image(wordcloud_image, label="Wordcloud").style(height=300)
+        title_input = gr.Textbox(label="Guess the Title of the Story")
+        output = gr.Textbox(label="Result")
+        submit_button = gr.Button("Submit")
+        submit_button.click(fn=check_title, inputs=title_input, outputs=output)
+    return demo
+
+if __name__ == "__main__":
+    app = app_interface()
+    app.launch()
