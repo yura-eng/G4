@@ -33,7 +33,7 @@ This lesson plan is designed for middle school students and focuses on enhancing
 
 ### 1. 🎧 Listening Activity (35 minutes)
 
-#### (1) Pre-Listening Activity: 🎬 WordCloud - 동화제목 맞추기 (10 minutes)
+#### (1) Pre-Listening Activity: 🎬 WordCloud (10 minutes)
 
 **🎯Objective:**
 - Enhance vocabulary recognition and prediction skills by interpreting a word cloud to guess the title of a story.
